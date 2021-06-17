@@ -1,0 +1,30 @@
+.heads{
+    background-color: #F35052;
+    border-radius: 10px;
+}
+
+.parahead{
+    font-family:  monotype corsiva;
+    margin-top: 50px;
+    text-align: center;
+    font-size: 2.5rem;
+}
+
+.para11{
+    text-align: justify;
+    font-family:  monotype corsiva;
+}
+
+.foot11{
+    margin-top: 30px;
+    padding: 30px 0;
+    background-color: #bcb8a9;
+    color: #ff0e15;
+}
+
+.menus1{
+    padding: 0 15px;
+    border-radius: 3px;
+    background-color: #25222d !important;
+    margin-bottom: 3px;
+}
